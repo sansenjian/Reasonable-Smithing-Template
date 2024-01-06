@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "b": {
+      "item": "minecraft:wild_armor_trim_smithing_template"
+    },
+    "c": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:wild_armor_trim_smithing_template",
+    "count": 2
+  }
+}
